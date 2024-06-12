@@ -1,0 +1,3 @@
+This Python script creates a virtual drawing application using OpenCV, MediaPipe, and NumPy. 
+The application captures video from the webcam, detects hand landmarks to identify the forefinger's position, and uses this position to draw on a virtual canvas.
+It includes multiple color options and the ability to clear the canvas.
